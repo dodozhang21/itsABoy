@@ -13,7 +13,7 @@ visit  http://pure-essence.net/2013/04/10/child-theme-for-twenty-eleven-its-a-bo
  Licenses:
 --------------------------------------------------------------------------------
 It's a Boy is a child theme of Twenty Eleven
-Twenty Eleven is is licensed under the GPL.
+Twenty Eleven is licensed under the GPL.
 
 == Bundled Resources: Images ==
 
